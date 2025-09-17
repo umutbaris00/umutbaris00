@@ -1,6 +1,6 @@
 <h2>Hi 👋, I'm UMUT</h2>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/405306906278625280?bg=0d1117&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/405306906278625280)
+[![Discord Presence](https://lanyard.cnrad.dev/api/405306906278625280?idleMessage=Audentes%20fortuna%20iuvat)](https://discord.com/users/405306906278625280)
 <!-- <img src="https://discord.c99.nl/widget/theme-2/405306906278625280.png"/> -->
 
 [<img src="https://img.shields.io/discord/788400950351888425?color=5661F6&label=Nexus%20Land&style=for-the-badge" />](https://discord.gg/b2FAJmMGbY)
